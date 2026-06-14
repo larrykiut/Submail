@@ -31,7 +31,7 @@ git clone https://github.com/larrykiut/Submail
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/larrykiut/Submail
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
 
 ```
 
@@ -41,7 +41,7 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd submail
+cd Subbmail
 
 python mmail.py
 
